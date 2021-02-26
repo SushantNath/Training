@@ -1,0 +1,9 @@
+applications:
+- path: ./webapp
+name: tariningDemo
+host: trainingDemo
+memory : 128M
+disk_quota: 128M
+timeout : 180
+instances : 1
+buildpack : staticfile_buildpack
