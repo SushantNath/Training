@@ -16,7 +16,7 @@ sap.ui.define([
 // this.getView().getModel("invoice").setSizeLimit=4;
  console.log("Inside onInit  view1");`
  
-   
+   //BAS code
  `
 		},
 		
