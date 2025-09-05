@@ -1,0 +1,1017 @@
+ Request Id: 20408045 
+
+TecM-PaE_508wQqaaa dt: 26-07
+
+laptop login- App..3App...7
+
+570002878@ge.com
+sushantkr.nath@geaerospace.com
+SAP ge bas- Apple@123
+
+Pwd- PaE_508wQqaa
+sso-570002878
+
+
+SAP BAS- https://dev-icmkkvlp.us10cf.applicationstudio.cloud.sap/index.html
+
+trial BAS-https://4f92e64ctrial.ap21cf.trial.applicationstudio.cloud.sap/index.html
+
+ivanti app - User Name: 	570002878 
+Server URL: 	ge2.mobileiron.net 
+Password: 	sso password 
+Registration PIN: 	869948 
+
+
+Systems:
+S4A (Client : 100, 200)
+S4B( Client: 100,  200)
+S4D (Client : 100, 200, 300)- Ap..@..4
+SQ1(Client 200) 
+
+User ID: 570002878
+Password: Welcome@12
+
+GIT link-https://github.build.ge.com/570002878/BackToBirth/edit/main/README.md
+
+GIT token- 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
+
+
+
+Launchpad s4d- https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui2/flp?sap-client=300&sap-language=EN#Shell-home
+Launchpad designer-  https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html
+Launchpad designer client 100 - https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html?scope=CUST&sap-client=100&sap-language=EN#/Catalog/X-SAP-UI2-CATALOGPAGE:Z_F_C_SAPOAR
+
+New launchpad link:
+https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui2/flp?sap-client=100&sap-language=EN -- 100
+ 
+https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui2/flp?sap-client=200&sap-language=EN --200
+ 
+https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui2/flp?sap-client=300&sap-language=EN --300
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR
+
+SQ2 fiori link:
+https://sq2ci.apps.geaerospace.net:44301/sap/bc/ui2/flp?sap-client=200&sap-language=EN
+
+activex -pswd- The generated password is: Ap...@...4 
+activex link- https://sp1ci.ae.ge.com:50201/sap(bD1lbiZjPTEwMA==)/bc/bsp/bti/te_bsp_new/main.html#transportlist/taskId=10025013100000418498
+
+
+ 1.	GEAM Dashboard – https://app.smartsheet.com/dashboards/P7qRjMCmHw3hqQCm27CV4P9wR64FwP9xhVPj9qQ1
+2.	TR list – https://app.smartsheet.com/sheets/qpF268Hvw4CVwpF9GvXx9fQMRh9HP2x6qm79V4h1?view=grid
+3.	F2S tracker - https://app.smartsheet.com/sheets/RPwjJ6qrJQrFXw5C6rwQ3h2VFMHPVRHXwQpM52g1
+
+//////////////////////////////////////////
+cds_zf_ui_invoice_to_oar
+
+https://mytech.geaerospace.com/portal/get-support/article?id=GEKB2028977&locale=en
+
+ "uri": "/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_V2/",
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata4/sap/zf_ui_invoice_to_oar_o4/srvd/sap/zf_ui_invoice_to_oar_item/0001/$metadata
+
+ https://port8081-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/InvoiceReprocess/$count?$filter=AccountingDocument%20eq%20%271800000002%27%20and%20AccountingDocument%20eq%20%271800000013%27%20and%20CompanyCode%20eq%20%27VE80%27%20and%20FiscalYear%20eq%20%272025%27
+ https://port8081-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/InvoiceReprocess/$count?$filter=AccountingDocument%20eq%20%271800000002%27%20and%20(AccountingDocument%20ge%20%271800000002%27%20and%20AccountingDocument%20le%20%271800000013%27)%20and%20CompanyCode%20eq%20%27VE80%27%20and%20FiscalYear%20eq%20%272025%27 
+https://port8081-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata4/sap/zf_ui_invoice_to_oar_o4/srvd/sap/zf_ui_invoice_to_oar_item/0001/InvoiceReprocess
+
+
+aGlobalFilters[0].oValue1
+
+aGlobalFilters[0].oValue1---------aGlobalFilters[1].oValue2
+
+Action import V4:
+https://stackoverflow.com/questions/70204048/how-to-send-a-post-request-to-odata-v4-actionimport-with-sapui5
+
+odata reead V4:
+https://stackoverflow.com/questions/56232557/sapui5-odata-v4-read
+
+odata v2
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/$metadata
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/I_AccountingDocumentStdVH
+I_companycode
+I_CompanyCodeStdVH
+
+
+Trade License Preview of TL25041300179
+
+Transaction id for khajana- 200200162025-2600079
+
+//-Aerospace--///
+SSo-570002878
+Pwd-A..@..3A..@..6
+
+Smartsheet-A..@..4
+
+migration link- https://m365userhub.dw.geaerospace.com/migration/step-three	
+
+https://community.sap.com/t5/technology-q-a/get-value-from-value-help-and-pass-odata-filter/qaq-p/12265168
+https://stackoverflow.com/questions/60431362/convert-token-from-valuehelpdialog-into-filters-in-sapui5
+
+
+S4D Wk TR_ S4DK903914 ; SAP OAR
+short desc- GM_FI_I_005_04- BSP app for SAP OAR
+Conf TR-S4DK903916
+BSP- ZinvoiceOAR
+sem- ZSEMOBJ_SAPOAR
+package-ZGM_FIN_I_005_04
+catalog id- Z_F_C_SAPOAR
+Tile- Reprocessing Invoices to OAR
+Subtitle- SAP_OAR
+
+ destination: S4D_300
+          url: http://s4dci.ae.ge.com:44301
+          client: '300'
+
+S4D_100_BAS
+ url: http://s4dci.ae.ge.com:44301
+          client: '100'
+
+
+
+
+
+this.getView().byId("companyCodeId").getSelectedKey
+VE80,2024,1800000082,oct 7 2024
+
+7000000004, 20241014,
+
+90000003
+
+/Date(1741824000000)
+
+/:startDate:/:endDate:
+/:invoiceNumber:/:startDate:/:endDate:
+
+1800000002
+
+this.getView().byId("startDateId").getValue()
+this.getView().byId("startDateId").getValue()
+this.getView().byId("startDateId").getValue();
+'4/15/25'
+
+'Mon Oct 07 2024 00:00:00 GMT+0530 (India Standard Time)' - after formatting with selection
+Mon Oct 07 2024 05:30:00 GMT+0530 (India Standard Time)- bc
+
+https://stackoverflow.com/questions/47903087/get-smart-table-binding-model-sap-ui5
+https://community.sap.com/t5/technology-q-a/how-to-bind-the-selection-column-of-a-smart-table-to-odata-model/qaq-p/12166531
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZF_UI_ACCDOC_HFM_O2/$metadata
+https://port8080-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZF_UI_ACCDOC_HFM_O2/HFM_OutboundType
+https://port8080-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZF_UI_ACCDOC_HFM_O2/HFM_Outbound?sap-client=200
+
+
+period-004; Ledger-0L
+
+9437630723- manoranjan das
+
+340011@orientalinsurance.co.in
+
+
+Last_Update_Date
+: 
+"20250506"
+Ledger
+: 
+"0L"
+Period_Net_Cr_ui
+: 
+"0.00"
+Period_Net_Dr_ui
+: 
+"0.00"
+SourceLedger
+: 
+"0L"
+YTD_Balance_ui
+: 
+"0.00"
+account
+: 
+"3720301000"
+company_code
+: 
+"VE80"
+cost_center
+: 
+"0"
+currency_code
+: 
+"USD"
+geography
+: 
+"000"
+period_net_cr
+: 
+"-4320.50"
+period_net_dr
+: 
+"0.00"
+period_num
+: 
+"012"
+period_year
+: 
+"2024"
+profit_center
+: 
+"AV50XV"
+project_code
+: 
+"0000000000"
+ref_code
+: 
+"000000"
+trading_partner
+: 
+"0"
+ytd_balance
+: 
+"-8641.00"
+
+
+I_AccountingDocumentStdVH
+invoiceModel>/invoiceSet
+invoiceModel>AccountingDocument
+invoiceModel>CompanyCode
+
+SHA256:MdtSpLwQDHnbuOyPQSJBBsV01I4KuI0jAfM40RxQp50 logon\570002878@GC0S1T44E
+
+/////////////////////////////Back to birth////////////////////////
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SRCHBDTLS_01/?sap-client=300
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SRCHBDTLS_01/MaterialSearch
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/MaterialSearch
+
+
+
+https://community.sap.com/t5/technology-q-a/how-to-do-navigation-in-smarttable-from-master-to-detail-page/qaq-p/13945031
+
+workbench-S4DK904141
+ZBackToBirth
+
+BSP app-
+http://s4dci.ae.ge.com:8001/sap/bc/ui5_ui5/sap/zbacktobirth/index.html?sap-client=300
+http://s4dci.ae.ge.com:8001/sap/bc/ui5_ui5/sap/zbacktobirth/index.html?sap-client=300
+https://s4dci.ae.ge.com:44301/sap/bc/ui5_ui5/sap/zbacktobirth/index.html?sap-client=300&sap-ui-language=EN&sap-ui-xx-devmode=true
+
+change label name using annotation at abap level.
+https://community.sap.com/t5/technology-q-a/how-to-change-the-column-name-in-smarttable-in-sap-ui5/qaq-p/12419479
+https://community.sap.com/t5/technology-blog-posts-by-members/how-to-change-the-column-name-in-smarttable-in-sap-ui5-with-annotation-file/ba-p/13574907
+
+tableType="ResponsiveTable" 
+
+
+object page-
+https://community.sap.com/t5/technology-blog-posts-by-members/how-to-create-object-page-in-ui5-application-using-shared-blocks-and/ba-p/13579880
+https://sapui5.hana.ondemand.com/#/entity/sap.uxap.ObjectPageLayout/sample/sap.uxap.sample.ObjectPageHeaderExpanded
+
+ "id": "Home",
+          "name": "Home"
+maxConditions="1"
+
+.oData.MaterialsModel.ProductName
+
+Preview:
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/InvoiceReprocess?$filter=CompanyCode%20eq%20%27VE80%27%20and%20FiscalYear%20eq%20%272025%27%20and%20(PostingDate%20ge%20%2720250101%27%20or%20PostingDate%20le%20%2720250202%27)
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/InvoiceReprocess?$filter=CompanyCode eq 'VE80' and FiscalYear eq '2025' and PostingDate ge '20250101' and PostingDate le '20250202'
+https://s4dci.ae.ge.com:44301/sap/bc/adt/businessservices/odatav2/feap?feapParams=nYsi%5DsaUhVFgYUfW%5CsDE77VFVg%C2%88u%C2%88%C2%89%C2%8777%C2%88%C2%83s%C2%80%7Dzy%C2%80%7D%C2%81%7D%C2%88TT%C2%88%C2%83sc%C2%82%C2%83zz%C2%80%C2%83%7BTT%C2%88%C2%83si%C2%87u%7By77%60%7Dzy%60%7D%C2%81%7D%C2%88TTc%C2%82czz%60%C2%83%7BTTi%C2%87u%7By77nYsi%5DsaUhVFgYUfW%5CsDEsjUb77DDDE&sap-ui-xx-viewCache=false&sap-ui-language=EN&sap-client=300#/?sap-iapp-state=3&sap-iapp-state--history=1
+
+Managed Behavior Definition ZPE_R_MATB2BDTLS
+ZE_THRUST_USAGE_VH
+
+
+pdf:
+
+https://port8082-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZPE_SI_B2B/ZE_I_B2BIN(p_matnr='1644M21P04',p_sn='JV2301',p_batch='0000003054')/Set
+
+value help, create, delete, refersh, save, incomplete,complete,print
+
+20-05-25--- Autofill of fields in create dialog
+
+smart template tricks:
+https://community.sap.com/t5/technology-blog-posts-by-members/smart-templates-and-sap-fiori-apps-60-tips-and-tricks/ba-p/13406652
+
+Complete?sap-client=300&Parentkey=guid'00000000-0000-0000-0000-000000000001'&PartNumber='1644M21P04'&SerialNumber='JV2301'&BatchNumber='0001599-1U'&EngineVersion='CF6-80C2A1'
+POST B2BStatus(Parentkey=guid'00000000-0000-0000-0000-000000000001',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U',EngineVersion='CF6-80C2A1')
+{"__metadata":{"type":"cds_ze_ui_matb2srchbdtls.UsageType"},"ThrustCat":"A","EngineVersion":"CF6-80C2A1","EngineFamily":"CF6","EngineModel":"CF6-80C2","AllowedCycles":"20000"}
+--changeset_3a23-78c7-0461--
+
+POST B2BStatus(Parentkey=guid'00000000-0000-0000-0000-000000000001',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U',EngineVersion='CF6-80C2A1')/to_Usage?sap-client=300 HTTP/1.1
+{"__metadata":{"type":"cds_ze_ui_matb2srchbdtls.UsageType"},"ThrustCat":"A","EngineVersion":"CF6-80C2A1","EngineFamily":"CF6","EngineModel":"CF6-80C2","AllowedCycles":"20000"}
+
+
+Refreh:
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_CYCLEREMAINING_01/CycleRemaining(PartNumber='1644M21P04',ThrustCat='A',EngineVersion='CF6-80C2A1')
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_CYCLEREMAINING_01/CycleRemaining(PartNumber='1644M21P04',EngineFamily='CF6',EngineVersion='CF6-80C2A1')
+
+https://port8082-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZPE_SI_B2B/ZE_I_B2BIN(p_matnr='1644M21P04',p_sn='JV2301',p_batch='0001599-1U')/Set
+ https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZPE_SI_B2B/ZE_I_B2BIN(p_matnr=1644M21P04,p_sn=JV2301,p_batch=0001599-1U)/Set
+
+
+Deep insert :
+https://community.sap.com/t5/technology-q-a/deep-insert-using-model-create/qaq-p/10039662
+https://community.sap.com/t5/technology-blog-posts-by-members/sapui5-how-to-create-form-with-odata-deep-insert/ba-p/13469402
+
+Smartform CRUD- https://www.youtube.com/watch?v=AB1i1GGJMn4
+
+
+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
+
+
+default filter values using annotatin- https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/using-filter-and-selection-parameter-in-byd-odata-for-analytics/ba-p/13328048
+
+https://community.sap.com/t5/technology-q-a/how-to-set-default-value-to-sap-ui-comp-smartfield-smartfield/qaq-p/13959070
+https://community.sap.com/t5/technology-q-a/how-to-set-default-value-in-smartfilter-s-value-help-dialog/qaq-p/11931944
+https://community.sap.com/t5/technology-blog-posts-by-members/fiori-elements-list-report-selection-fields-smart-filterbar-sharing-filter/ba-p/13365908
+https://community.sap.com/t5/technology-q-a/smart-filter-bar-value-help-defaulting/qaq-p/489053
+
+sap:value-list="standard"
+sap:value-list="true"
+
+application-comgebacktobirthbacktobirth-display-component---Create--thrustSmartField-input-inner
+
+this.getView().byId("application-comgebacktobirthbacktobirth-display-component---Create--thrustSmartField").setValue("A");
+this.getView().byId("application-comgebacktobirthbacktobirth-display-component---Create--thrustSmartField").setShowValueHelp();
+.setShowSuggestion();
+
+
+Partnumber( material)
+Engine Family
+Engine Version
+Engine Model
+B2B Status
+Plant
+Notes
+Batch
+Serial Number
+
+
+https://github.com/SAP/openui5/issues/506
+
+enabled="{= ${status} === 'save'}"
+editable="{= ${status} === 'save'}"
+https://www.amarmn.com/sapui5-programming-for-beginners-part-2-introducing-sapui5-json-model/
+
+https://www.techippo.com/2018/04/expression-binding-in-sapui5.html
+ value="{namedmodel>/employee/name}" 
+ <!--textLabel="{Notes}" -->
+
+6371771203
+
+create- onoff log
+create- details page
+delete- onoff log, thrust usage
+
+ var string1 = "/B2BStatus(Parentkey";
+            var string2 = ",PartNumber=";
+            var string3 = ",SerialNumber=";
+            var string4 = ",BatchNumber=";
+            var string5 = ",EngineVersion=";
+
+
+"(Material='1-321898-0',Plant='4110',Batch='0000000010',SerialNumber='',Equipment='undefined',EngineVersion='undefined',EngineType='',StorageLocation='undefined')"
+
+oTable.getSelectedItems()[0].getBindingContext().
+omodel.remove
+
+(PartNumber='1-321898-0',Plant='4110',Batch='0000000012',SerialNumber='',Equipment='undefined',EngineVersion='undefined',EngineType='',StorageLocation='4IML')"
+(Parentkey=guid'0a6bf4ac-51ed-1fe0-8bc4-06334c139946',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U',EngineVersion='CF6-80C2A1')" 
+(Parentkey=guid'00000000-0000-0000-0000-000000000000',PartNumber='1-321898-0',SerialNumber='',BatchNumber='0000000025',EngineVersion='')
+/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus?filter=ParNumber = '1644M21P04' ,BatchNumber = '0000003054' ,SerialNumber = 'JV2303' ,EngineFamily = 'CF6' ,EngineVersion = 'CF6-80C2A1'
+
+
+Gateway client results:                                                  filter=PartNumber = '1644M21P04' ,BatchNumber = '0000003054' ,SerialNumber = 'JV2303' ,EngineFamily = 'CF6'
+/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U',Plant='4130')
+                                                  PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U',EngineVersion ='CF6-80C2A1'
+/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(PartNumber='1644M21P04',BatchNumber='0001599-1U',Plant='4130')
+/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/MaterialSearch?$filter=Material%20eq%20%271644M21P04%27%20and%20Plant%20eq%20%274130%27
+PartNumber='1644M21P04',BatchNumber='0000003054',Plant='4130',SerialNumber=''
+https://port8080-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus?filter=ParNumber eq '1644M21P04' and BatchNumber eq '0000003054' and SerialNumber eq 'JV2303' and EngineFamily eq 'CF6' 
+
+
+0a6bf4ac-51ed-1fe0-8bc4-06334c139946
+
+Material- 1644M21P04  Batch- 0000003054  serial num- jv2301
+
+
+/////////////////////////////////////////////
+    var oSmartTable = this.getView().byId("SmartTableLog");
+                var oTable = oSmartTable.getTable();
+    
+                var selectedValue = oTable._aSelectedPaths;
+                console.log("Selected path is", selectedValue);
+                var oModel = oSmartTable.getModel();
+                var aSelectedIndicesValue = oTable.getSelectedItems();
+                //var aSelectedIndices = oTable.getSelectedItems()[0].getBindingContext();
+    
+    
+                if (selectedValue.length > 0) {
+    
+                    for (var i = 0; i < selectedValue.length; i++) {
+    
+                        //  aSelectedIndicesValue.forEach(function(item) {
+                        var aSelectedIndices = oTable.getSelectedItems()[i].getBindingContext();
+    
+                        console.log("Inside selected items foreach");
+    
+    
+                        oModel.remove(aSelectedIndices.sPath, {
+                            success: function (oData, oResponse) {
+    
+                                console.log("Successfully deleted:", oData);
+                                oSmartTable.getTable().getBinding("items").refresh();
+                            },
+                            error: function (oError) {
+    
+                                console.log("Error deleting:", oError);
+                            }
+                        });
+                        //  });
+    
+                    }// closing loop for loop
+                }
+                else {
+                    // Display a message that no rows are selected
+                    MessageBox.information("Please select at least one row to delete.");
+                }
+            }
+     
+
+
+///////////////////////////////////////////
+
+ OnOffLog(Parentkey=guid'0a6bf4ac-51ed-1fe0-8bc4-06334c139946',Itemno=guid'0a6bf4ac-51ed-1fe0-8ec1-b7aca0a0f946',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054')
+ OnOffLog(Parentkey=guid'00000000-0000-0000-0000-000000000001',Itemno=guid'0a6bf4ac-51ed-1fe0-8be0-b717c18b5946',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U')
+mode="MultiSelect" growingThreshold="100" growing="true" 
+     growingScrollToLoad="true"
+
+https://community.sap.com/t5/technology-q-a/sapui5-smarttable-add-events-to-smartfields/qaq-p/12387895
+
+multiple records for batch - https://www.techippo.com/2017/10/OData-Batch-SAPUI5-SAPGateway-service.html#google_vignette
+                             https://community.sap.com/t5/technology-blog-posts-by-members/odata-batch-call-operations/ba-p/13573722
+                             https://community.sap.com/t5/technology-blog-posts-by-members/batch-call-of-function-imports-in-sapui5/ba-p/13454243
+
+ selectionMode="Single"
+kakudi,lembu, lanka,dhania patra, beet-250gm,papaya, cauliflower
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(Parentkey=guid'00000000-0000-0000-0000-000000000000',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054',EngineVersion='CF6-80C2A3')
+                            /sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus?filter=ParNumber eq '1644M21P04' and BatchNumber eq '0000003054' and SerialNumber eq 'JV2303' and EngineFamily eq 'CF6'
+
+https://port8081-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(Parentkey=guid'00000000-0000-0000-0000-000000000000',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054',EngineVersion='CF6-80C2A1')
+
+ "pattern": "B2BStatus({B2BStatusKey}):?query:",
+
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0001599-1U',EngineVersion='CF6-80C2A1')/to_Usage
+https://s4dci.ae.ge.com:44301/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054',EngineVersion='CF6-80C2A1')/to_Usage
+
+usagedraft custom-1
+
+https://s4dci.dev.apps.geaerospace.net:44301/sap/opu/odata/sap/ZE_UI_THRUSTUSG_D_01/ThrustUsgDraft
+
+
+controllerName="com.ge.backtobirth.backtobirth.controller.B2BStatus" 
+
+ "cycleModel": {
+      "dataSource": "cycleService",
+      "preload": true,
+      "settings": {
+        "defaultBindingMode": "TwoWay",
+        "defaultOperationMode" :"Server",
+        "useBatch": false
+      }
+    }
+
+
+ "cycleService": {
+        "uri":"/sap/opu/odata/sap/ZE_UI_CYCLEREMAINING_01/",
+        "type": "OData",
+        "settings": {
+          "localUri": "localService/mainService/metadata.xml",
+          "odataVersion": "2.0" }
+        
+      },
+
+B2BStatus(PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054',EngineVersion='CF6-80C2A1')/to_Usage?sap-client=300 HTTP/1.1
+
+
+/////////////////Fiori Tile//////////////////////////
+
+Name- Backtobirth maintenance
+Title - Back to Birth Maintenance
+Subtitle- 
+bsp- zbacktobirth
+ui5 App- backtobirth
+GIT- B2B
+package- ZGM_PNE_E_002 
+workbench TR- S4DK904141 - not assigned to any package
+customizing TR-S4DK904454
+catalog - Z_E_C_BACKTOBIRTH
+semobj- ZBackToBirth
+BSP path- /sap/bc/ui5_ui5/sap/zbacktobirth
+component- com.ge.backtobirth.backtobirth
+
+<cells>
+        <Input value="{LegacyIndicator}"  editable="false"/>
+      </cells>
+
+      <cells>
+        <Input value="{DeletionStatus}"  editable="false"/>
+      </cells>
+
+
+   <customData> 
+                                <core:CustomData key="p13nData" value='\{"columnKey": "LegacyIndicator","leadingProperty": "LegacyIndicator","sortProperty": "LegacyIndicator","filterProperty": "LegacyIndicator", "columnIndex": 4}'/>
+                               
+                            </customData>
+                            <Label text="LegacIndicator" />
+
+                             <customData> 
+                                <core:CustomData key="p13nData" value='\{"columnKey": "DeletionStatus","leadingProperty": "DeletionStatus","sortProperty": "DeletionStatus","filterProperty": "DeletionStatus", "columnIndex": 5}'/>
+                               
+                            </customData>
+                            <Label text="DeletioStatus" />
+
+1800000002,1800000013
+
+
+Smartform- https://community.sap.com/t5/technology-blog-posts-by-members/virtual-context-in-sap-ui5/ba-p/13449172
+
+category needs to be removed, batch number field mapping to be changed, server messages,ui table change, edit form
+
+
+ beforeRebindTable="onBeforeRebindTable"
+ editTogglable="false"
+ initiallyVisibleFields="Itemno,PartNumber,SerialNumber,BatchNumber"
+
+//new points added
+
+11) error message to  be displayed in footer like standrad layout
+12)after creation of the thrustcat -> after close of create the record is not displayed in the table
+13)create screen of onofflog doesnot have all fields from entity as below(from backend service)
+14)legacy indicator & deletion status field needs to be removed from create screen
+
+/sap/opu/odata/sap/ZE_UI_MATB2SEARCH_01/B2BStatus(PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054',EngineVersion='CF6-80C2A1')/to_Onofflog
+
+
+test post in gateway client- https://aditheos.com/2019/04/16/e2e-apptest-odata-service-using-sap-gateway-client/
+
+
+ this.getView().byId("SmartTableCycle").getTable().getBinding().refresh
+
+
+https://port8081-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZF_UI_INVOICE_TO_OAR_O2/InvoiceReprocess/$count?$filter=AccountingDocument%20eq%20%271800000002%27%20and%20AccountingDocument%20eq%20%271800000013%27%20and%20CompanyCode%20eq%20%27VE80%27%20and%20FiscalYear%20eq%20%272025%27
+
+
+OR condition in value help- https://community.sap.com/t5/technology-q-a/sapui5-valuehelp-build-filter-operator/qaq-p/12527067
+
+Delete scenario payload for onoff:
+
+0
+: 
+"/OnOffLog(Itemno=guid'0a6bf4ac-51ed-1fe0-90d9-76e5ac067946',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054')"
+1
+: 
+"/OnOffLog(Itemno=guid'0a6bf4ac-51ed-1fe0-90f5-37ed662cb946',PartNumber='1644M21P04',SerialNumber='JV2301',BatchNumber='0000003054')"
+
+
+
+
+
+1) without go button value helpisplay
+2) engine version column needsto be filled- the entityset zthrustusage is not having property- engineversion
+3) cycle remaining gets called twice
+4) Complete,complete, edit  button needs to be enabled
+
+
+Complete_ac
+
+InComplete_ac
+
+
+oModel.oData[oContext].Complete_ac
+oModel.oData[oContext].InComplete_ac
+ visible="{Update_mc}"
+
+this.getView().getBindingContext().getObject()
+  text = "{createModel>/EngineFamily}"
+
+
+batch issues- https://community.sap.com/t5/technology-q-a/issues-with-sapui5-v2-odata-model/qaq-p/11611529
+
+ var oModel=this.getOwnerComponent().getModel();
+    oModel.read("/InvoiceReprocess",
+        
+        {
+            filters : [ filter1,
+                filter2,
+                oFilterCombined], 
+       success: function (oData, Response) {
+          
+          console.log("Odata result is inside reprocess",oData.results);
+       //    var invoiceNumberModel = new sap.ui.model.json.JSONModel(oData.results);
+       //    that.getView().setModel(invoiceNumberModel, "invoiceNumberModel");
+       },
+       error: function (oData, Response, oError) {
+           
+       }  
+   })
+
+
+
+
+
+
+pzt2505131528yr59g00- payment failed id 
+
+Invalid key property 'EngineVersion' in key predicate. Expected name(s): 'PartNumber, BatchNumber, Plant, SerialNumber
+
+https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui2/flp?sap-client=300&sap-language=EN#ZBackToBirth-display?Batch=0000000015&Material=1-321898-0&Plant=4130&sap-ui-debug=true
+
+
+/////Material description/////////////////////
+
+https://github.build.ge.com/503383680/CustomMaterialDesc.git
+catalog- Z_M_C_CUSTOMMATDESC
+Semantic object- Material
+Cust TR- S4DK904760
+Work TR- S4DK904762
+BSP app-z_m_custmatdesc
+
+https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui5_ui5/sap/z_m_custmatdesc/index.html?sap-client=300&sap-ui-language=EN&sap-ui-xx-devmode=true
+
+https://port8081-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZM_UI_CUSTOMMATERIALDESC/CUSTOMMATERIALDESCRIPTION
+
+https://port8085-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZM_UI_CUSTOMMATERIALDESC/
+
+
+////////////////////////////////////
+
+
+Z_E_C_BACKTOBIRTH
+
+var ccc = jQuery.sap.getUriParameters().get("ccc");
+jQuery.sap.getUriParameters().get("Batch");
+
+
+
+ var oSmartFilterBar = this.getView().byId("smartFilterBar");
+            var oDefaultFilter = {
+              Material: "1234",
+              Batch:"111",
+              Plant:"4130"
+            };
+            oSmartFilterBar.setFilterData(oDefaultFilter);
+
+            sap.ui.core.UIComponent.prototype.init.apply(this, arguments);
+ var batch= jQuery.sap.getUriParameters().get("Batch");
+    var oComponentData = this.getComponentData();
+    if (oComponentData && oComponentData.startupParameters) {
+        var paramValue1 = oComponentData.startupParameters.parameterName1[0]; // Access the parameter value
+        console.log("Parameter Value 1: ", paramValue1,batch);
+    }
+
+https://www.sitepoint.com/get-url-parameters-with-javascript/
+queryString.split('?')[1]
+
+
+S4D_100_BAS
+
+   mode="MultiSelect"
+                                    growingThreshold="100"
+                                    growing="true"
+                                    growingScrollToLoad="true"
+
+
+https://port8082-workspaces-ws-qqxgb.us10.applicationstudio.cloud.sap/sap/opu/odata/sap/ZPE_SI_B2B/ZE_I_B2BIN(p_matnr='1644M21P04,p_plant='4130',p_batch='0000003054')/Set 
+/sap/opu/odata/sap/ZPE_SI_B2B/ZE_I_B2BIN(p_matnr='1644M21P04',p_batch='0000003054',p_plant='4130')/Set/?$format=json
+
+
+
+that.getView().byId("statusId").setVisible(true);
+
+var oItems = oTable.getSelectedIndices();
+      for (var i = 0; i < oItems.length; i++) {
+        j = oItems[i];
+        var l_ekgrp = oTable.getContextByIndex(j)
+          .getProperty("Docnum");
+        // and fetch rest of fields in similar pattern
+ 
+}
+
+dtdc- K72211485
+
+How to extend BAS project- https://sap.how/how-to-create-extension-project-in-bas/
+                           https://community.sap.com/t5/technology-q-a/how-to-deploy-extended-standard-legacy-fiori-apps-in-bas/qaq-p/14047883
+
+B2BExtension:
+Conf TR- S4DK905034
+Work TR- S4DK905036
+
+Name- Backtobirth maintenance
+Title - BacktoBirthExt
+Subtitle- 
+bsp- zbacktobirthext
+ui5 App- backtobirth.variant
+GIT- B2B
+package- ZGM_PNE_E_002 
+workbench TR- S4DK905036
+customizing TR-S4DK905034
+catalog - Z_E_C_BACKTOBIRTH
+semobj- ZBackToBirth
+BSP path- /sap/bc/ui5_ui5/sap/zbacktobirthext
+component- com.ge.backtobirth.backtobirth
+action-Ext
+
+
+/////////////////Custom catalog///////////////////////////
+
+FI Apps
+
+Cust TR- S4DK905254
+Catalog- Z_F_C_FINACTIVITY
+Group- Z_F_G_FINACTIVITY
+
+catalog name- Finance activity Catalog
+Group name- Finance activity Group
+
+///////////////////
+
+partssearch test TR - S4DK905259
+original TR - S4DK904591
+
+New Tr; Dt- 21/07/25 : S4DK905457
+New TR;Dt -22/07/25  : S4DK905483
+ New TR;Dt -25/07/25 : S4DK905557
+New TR; Dt- 28/07/27: parts> B2B ; S4DK905602
+New TR;Dt -04/08/25 : S4DK905717
+New TR;Dt -14/08/25 : S4DK905881  desc-  GM_MAT_R_015 Part Search Report
+
+GM_MAT_R_015 Part Search Report: Defect 16242
+
+////////////////////////////////////role build//////////////
+cust TR - S4DK905375
+GEAM- Z_GM_F_C_ACCONTANT_ROLE
+Desc- GEAM_FINANCE_APPS
+
+CR- Z_CR_F_C_ACCONTANT_ROLE
+Z_CR_F_C_GL_ACCONTANT_ROLE - GEAM_ACCOUNT_APPS
+Z_CR_F_C_FIXED_ASSET_ROLE - GEAM_ASSET_APPS
+Desc- GEAM_CR_APPS
+
+sap.ushell.Container.getService("URLParsing").parseShellHash("ZBackToBirth-display?Batch=0000000012&Batch=0000000012&Material=1-321898-0&Material=1-321898-0&Plant=4110&Plant=4110&sap-app-origin-hint=");
+this.getView().byId("smartFilterBar").setFilterData( sap.ushell.Container.getService("URLParsing").parseShellHash(queryString).params );
+
+   //     this.batch= ['0000000012', '0000000012'];
+		// 	this.material= ['1-321898', '1-321898'];
+		// 	this.plant= ['411', '411'];
+  //     var finalFilter=[];
+
+        //     for  (var i=0;i< this.batch.length;i++){
+
+        //         var oDefaultFilter = {
+        //             Material: this.material[i],
+        //             Batch:this.batch[i],
+        //             Plant:this.plant[i]
+        //           };
+                 
+        //           finalFilter.push(oDefaultFilter);
+        //     }
+        //   //  oSmartFilterBar.setFilterData(oDefaultFilter);
+        //   for  (var i=0;i< this.batch.length;i++){
+
+        //   oSmartFilterBar.setFilterData(finalFilter[]);
+        //   }
+
+            // var oDefaultFilter = {
+            //   Material: this.material,
+            //   Batch:this.batch,
+            //   Plant:this.plant
+            // };
+            // oSmartFilterBar.setFilterData(oDefaultFilter);
+
+
+$filter=Material%20eq%20%271644M21P04%27%20and%20EngineFamily%20eq%20%27CF6%27
+
+
+  //code for reading params from url- Sushant//
+            const queryString = window.location.hash;
+            const queryValue = queryString.split('?')[1];
+            console.log(queryValue);
+            const urlParams = new URLSearchParams(queryValue);
+
+            this.batch = new URLSearchParams(queryString.split('?')[1]).get('Batch');
+            if( this.batch !== null)
+                {
+
+            this.material = new URLSearchParams(queryString.split('?')[1]).get('Material');
+            this.plant = new URLSearchParams(queryString.split('?')[1]).get('Plant');
+            
+             
+
+            //End of code
+
+            this.sHash=sap.ushell.Container.getService("URLParsing").parseShellHash(queryString).params;
+            // this.batch=sap.ushell.Container.getService("URLParsing").parseShellHash(queryString).params.Batch;
+            // this.material=sap.ushell.Container.getService("URLParsing").parseShellHash(queryString).params.Material;
+            // this.plant=sap.ushell.Container.getService("URLParsing").parseShellHash(queryString).params.Plant;
+
+}
+
+
+
+//////////////////////////////////////////
+
+ if( this.batch !== null)
+            {
+		 	var oSmartFilterBar = this.getView().byId("smartFilterBar");
+
+            var oDefaultFilter = {
+              Material: this.material,
+              Batch:this.batch,
+              Plant:this.plant
+            };
+            oSmartFilterBar.setFilterData(oDefaultFilter);
+      
+        }
+
+
+   // if (oSmartFilterBar && oArgs.filterValues) {
+                    var aFilterValues = ["1001","1002"]; // Assuming filter values are comma-separated
+                    var aFilters = [];
+                    for (var i = 0; i < aFilterValues.length; i++) {
+                      aFilters.push(new sap.ui.model.Filter("Batch", sap.ui.model.FilterOperator.EQ, aFilterValues[i]));
+                    }
+                    oSmartFilterBar.getFilterItems().forEach(function(oItem) {
+                        if (oItem.getName() === "Batch") { // Replace "FieldName" with your field name
+                            oItem.setValue(aFilterValues.join(",")); // Set the multiple values as a comma-separated string
+                        }
+                    });
+        
+                    oSmartFilterBar.applyChanges(); // Apply the changes to the filter bar
+              //  }
+
+https://maps.app.goo.gl/8WHQfMM8UxVZUyjV8
+20.2933551
+85.8118261
+
+wfrefr needs to be removed
+Deleted/Non-Stock Batch
+0004090-00
+
+     
+                this.material= ["100006","100007"];
+
+                var oSmartFilterBar = this.getView().byId("smartFilterBar");
+
+                var oDefaultFilter = {
+                    Material: this.material,
+                    Batch: this.batch,
+                    Plant: this.plant
+
+
+16 tabs, total apps- 1166
+
+https://sellercentral.amazon.in/tsba/searchpage/Account%20Management?ref_=sc_srvs_spn_blst
+
+onSelectAction
+
+ var oTable = this.getView().byId("idTable");
+ var oContext = oTable.getContextByIndex(value).getObject();
+oContext.Plant;
+
+
+sku- 12345678
+
+  var aSelectedIndices = this.getView().byId("idTable").getSelectedIndices();
+ aSelectedIndices.forEach((value, index) => {
+ var oContext = oTable.getContextByIndex(value).getObject();
+
+sku id bottle- RW-FQFA-VNWO; price- 62535
+sku id 200gm bar - Z2-XJBO-Z4T5
+
+
+line-21- path
+
+repair order:
+https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/adt/businessservices/odatav2/feap?feapParams=neasi%5DsfYdU%5Df%5DbgdYWh%5DcbsDF77fy%C2%84u%7D%C2%86%5D%C2%82%C2%87%C2%84yw%C2%88%7D%C2%83%C2%82777777neasi%5DsfYdU%5Df%5DbgdYWh%5DcbsDFsjUb77&sap-ui-xx-viewCache=false&sap-ui-language=EN&sap-client=200#/?sap-iapp-state--history=1&sap-iapp-state=4
+https://s4dci.dev.apps.geaerospace.net:44301/sap/opu/odata/sap/ZQM_UI_REPAIRINSPECTION_02/?sap-client=100
+BSP- https://s4dci.dev.apps.geaerospace.net:44301/sap/bc/ui5_ui5/sap/zrepairinsp
+com/ge/zrepairinsp
+
+
+
+Issues- 29/07/25
+
+Ramchandra- partssearch & back2birth
+Vishwa- B2B onofflog table auto save deactivation
+Gaurav- repairinpection1 - check upload for excel
+Kishore- Upload general jornal entries - estimation
+Alm access & activexcontrol - alm req-rejected; 
+
+
+// In the originating application
+sap.ui.require(["sap/ushell/services/CrossApplicationNavigation"], function(oCrossAppNav) {
+    var sSemanticObject = "MySemanticObject";
+    var sAction = "display";
+    var oParameters = {
+        "skipInitialScreen": ["true"], // Parameters are typically handled as arrays
+        "objectId": ["12345"]
+    };
+
+    var oURL = oCrossAppNav.hrefForExternal({
+        target: {
+            semanticObject: sSemanticObject,
+            action: sAction
+        },
+        params: oParameters
+    });
+
+    if (oURL) {
+        window.open(oURL, "_blank"); // Open in a new tab/window
+    }
+});
+
+// In the target application (Component.js)
+// ...
+init: function() {
+    UIComponent.prototype.init.apply(this, arguments);
+
+    var oComponentData = this.getComponentData();
+    if (oComponentData && oComponentData.startupParameters) {
+        var bSkipInitialScreen = oComponentData.startupParameters.skipInitialScreen && oComponentData.startupParameters.skipInitialScreen[0] === "true";
+        var sObjectId = oComponentData.startupParameters.objectId && oComponentData.startupParameters.objectId[0];
+
+        if (bSkipInitialScreen && sObjectId) {
+            // Programmatically navigate to the detail view or load data directly
+            this.getRouter().navTo("Detail", {
+                objectId: sObjectId
+            }, true); // true for no history entry
+        } else {
+            // Load the initial screen as usual
+            this.getRouter().navTo("Overview");
+        }
+    }
+    // ...
+}
+// ...
+
+
+test batch-1187564-00, 0631404-00
+
+
+LLP_CYC_REMAIN_RATIO
+: 
+"0.325400"
+
+coss nav with multiple parameters:
+https://www.google.com/search?q=how+to+pass+multiple+filters+in+crossnavigation+in+sapui5&oq=how+to+pass+multiple+filters+in+crossnavigation+in+sapui5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzMzM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+
+/////Manage sales price///////////
+
+CDS view- C_SlsPricingConditionRecordTP
+
+92417,92548
+
+58664,
+
+https://drive.google.com/drive/folders/1VfghS0F61V3V5IYEJlqR4U64qzA5LNnk
+
+
+/////////////Kishore apps//////////////
+
+Cust TR- S4DK906158
+Work TR- S4DK906160
+
+tcode-/OPT/VAN_LIABILITY
+Desc- Opentext: VAN Liability Report
+GE_VIM_LIABILITY
+Catalog- Z_VIM_C_LIABILITY
+catalog title- VIM_LIABILITY
+Group id- Z_VIM_G_LIABILITY
+Group title- VIM_G_LIABILITY
+Tile-VAN Liability Report
+semobj- ZVANSEMOBJ
+BT : GEA0008935 - GE_VIM_Tcodes
+
+
+tcode-/OPT/VIM_EXCP1
+Desc- VIM Exception Analysis Report
+GE_VIM_EXCP1
+Catalog- Z_VIM_C_EXCP1
+catalog title- VIM_C_EXCP1
+Group- Z_VIM_G_EXCP1
+Group title- VIM_G_EXCP1
+Tile-VIM Exception Analysis Report
+semobj- ZVIMSEMOBJ
+BT : GEA0008935 - GE_VIM_Tcodes
+
+
+
+-₹53,076.75
